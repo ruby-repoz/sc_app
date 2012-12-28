@@ -1,6 +1,6 @@
 module ApplicationHelper
 
-# Return a title on a per-page basis.
+	# Return a title on a per-page basis.
 
 	def title
 		base_title = "Content Sharing App"
